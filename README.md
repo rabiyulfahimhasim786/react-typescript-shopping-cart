@@ -2,7 +2,7 @@
 
 ![DEMO](https://github.com/rabiyulfahimhasim786/react-typescript-shopping-cart/blob/main/react-ts-shopping-cart/demo/shoping%20cart1.JPG)
 
-![DEMO](https://github.com/rabiyulfahimhasim786/react-typescript-shopping-cart/blob/main/react-ts-shopping-cart/demo/shoping%20cart2.JPG)
+![DEMO](https://github.com/rabiyulfahimhasim786/react-typescript-shopping-cart/blob/main/react-ts-shopping-cart/demo/shopping%20cart2.JPG)
 
 # References 
 
