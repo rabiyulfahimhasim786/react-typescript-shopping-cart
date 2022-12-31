@@ -6,7 +6,7 @@
 
 # References 
 
-* 1 - youtube: ttps://www.youtube.com/watch?v=lATafp15HWA&ab_channel=WebDevSimplified
+* 1 - youtube: https://www.youtube.com/watch?v=lATafp15HWA&ab_channel=WebDevSimplified
 * 2 - github: https://github.com/WebDevSimplified/react-ts-shopping-cart
 
 
