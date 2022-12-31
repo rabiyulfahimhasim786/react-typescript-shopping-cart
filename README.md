@@ -1,5 +1,7 @@
 # react-typescript-shopping-cart
 
+![DEMO](../main/react-ts-shopping-cart/demo/shoping cart1.JPG)
+
 # References 
 
 * 1 - youtube: ttps://www.youtube.com/watch?v=lATafp15HWA&ab_channel=WebDevSimplified
