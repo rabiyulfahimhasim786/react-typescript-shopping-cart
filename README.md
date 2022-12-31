@@ -1,6 +1,6 @@
 # react-typescript-shopping-cart
 
-![DEMO](../main/react-ts-shopping-cart/demo/shoping cart1.JPG)
+![DEMO](https://github.com/rabiyulfahimhasim786/react-typescript-shopping-cart/blob/main/react-ts-shopping-cart/demo/shoping%20cart1.JPG)
 
 # References 
 
